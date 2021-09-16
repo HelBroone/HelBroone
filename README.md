@@ -1,5 +1,9 @@
 ### Hi there 👋
+-I have an app already
 
+-I'm studying at university
+
+-It is complicated to use this app
 <!--
 **HelBroone/HelBroone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
